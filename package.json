@@ -1,0 +1,19 @@
+{
+  "name": "soakinsoap",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soakinsoap/soakinsoap.github.io.git"
+  },
+  "author": "chris-morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soakinsoap/soakinsoap.github.io/issues"
+  },
+  "homepage": "https://github.com/soakinsoap/soakinsoap.github.io#readme"
+}
