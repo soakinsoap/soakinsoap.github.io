@@ -8,6 +8,8 @@
 outline:none;
 }
 
+
+
 /* DEFAULTS */
 a, a:hover, a:visited, a:active {
   color: #000;
@@ -528,4 +530,7 @@ background-color:#333;
   [class*="col-"]{
     width:100%;
   }
+}
+.email{
+  cursor:pointer;
 }

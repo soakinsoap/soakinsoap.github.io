@@ -20,4 +20,10 @@ $(document).ready(function(){
       button.text(collapse);
     }
   });
+
+  $(".email").click(function(){
+    $(".email").text("morganchrisp@gmail.com");
+    $(".email").css('cursor','default');
+  });
+
 });
