@@ -6,8 +6,8 @@ $(document).ready(function(){
 
 
 
-    $(".collapsable").toggle();
-    $(".expandable").toggle();
+    $(".collapsable").slideToggle(200);
+    $(".expandable").slideToggle(200);
 
     var button = $(".btn-expand");
 
