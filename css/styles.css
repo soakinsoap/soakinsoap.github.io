@@ -517,11 +517,14 @@ background-color:#333;
 
 .text-detail {
   font-size: 85%;
+  /*color: #777;*/
+
 }
 
 .text-desc {
   list-style: disc;
-  text-align: justify;
+  text-align: left;
+  color: #666;
 }
 
 .list-space {
