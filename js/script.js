@@ -4,7 +4,7 @@ $(document).ready(function(){
 
   $(".btn-expand").click(function(){
 
-    $(".collapsable").toggle();
+    $(".collapsable").slideToggle(150);
 
     var button = $(".btn-expand");
 
