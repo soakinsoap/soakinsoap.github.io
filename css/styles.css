@@ -280,11 +280,20 @@ background-color:#333;
     margin-top:50px;
     padding:10vh 0 !important;
 }
+.main-card-rmg{
+  /*margin-top:50px;*/
+  padding:7.5vh 0 !important;
+}
+
 }
 
 @media only screen and (max-width: 550px) {
   .main-card{
     margin-top:0;
+}
+.main-card-rmg{
+  /*margin-top:50px;*/
+  padding:10vh 0 !important;
 }
 }
 
@@ -392,13 +401,14 @@ background-color:#333;
 @media only screen and (max-width: 950px) {
   .card-img-rmg{
     width:90% !important;
-    margin:20vh auto !important;
+    margin:7vh auto !important;
   }
 }
 
 @media only screen and (max-width: 550px) {
   .card-img-rmg{
     width:95% !important;
+    margin:20vh auto !important;
   }
 }
 
