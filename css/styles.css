@@ -197,6 +197,10 @@ body {
 background-color:#333;
 }
 
+.collapsable{
+  display: block;
+}
+
 .row-exp {
   margin: 50px 0px;
 }
