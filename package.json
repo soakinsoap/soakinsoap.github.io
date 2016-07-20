@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/soakinsoap/soakinsoap.github.io/issues"
   },
-  "homepage": "https://github.com/soakinsoap/soakinsoap.github.io#readme"
+  "homepage": "https://github.com/soakinsoap/soakinsoap.github.io#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
