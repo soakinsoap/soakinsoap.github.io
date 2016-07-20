@@ -524,7 +524,7 @@ background-color:#333;
 .text-desc {
   list-style: disc;
   text-align: left;
-  color: #666;
+  /*color: #666;*/
 }
 
 .list-space {
