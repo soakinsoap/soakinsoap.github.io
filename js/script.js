@@ -4,7 +4,10 @@ $(document).ready(function(){
 
   $(".btn-expand").click(function(){
 
-    $(".collapsable").slideToggle(150);
+
+
+    $(".collapsable").toggle();
+    $(".expandable").toggle();
 
     var button = $(".btn-expand");
 

@@ -201,6 +201,11 @@ background-color:#333;
   display: block;
 }
 
+.expandable{
+  display: none;
+}
+
+
 .row-exp {
   margin: 50px 0px;
 }
