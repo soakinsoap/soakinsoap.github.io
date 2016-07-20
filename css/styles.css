@@ -359,7 +359,7 @@ background-color:#333;
     /*width:90% !important;*/
     margin-left:auto !important;
     margin-right:auto !important;
-    margin:20vh auto !important;
+    /*margin:25vh auto !important;*/
 
     /*text-align: center;*/
   }
@@ -413,7 +413,7 @@ background-color:#333;
 
 @media only screen and (max-width: 550px) {
   .nav-row{
-    margin: 100px 15px;
+    margin: 25vh 15px;
   }
 }
 
