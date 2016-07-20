@@ -235,6 +235,11 @@ background-color:#333;
 .exp-group-item{
   padding-bottom:0 !important;
 }
+@media only screen and (max-width: 950px) {
+  .exp-desc li{
+    text-align:left;
+  }
+}
 @media only screen and (max-width: 550px) {
 
   .exp-desc li{
