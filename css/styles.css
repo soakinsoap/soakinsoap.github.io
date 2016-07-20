@@ -350,14 +350,9 @@ background-color:#333;
     /*width:90% !important;*/
     margin-left:auto !important;
     margin-right:auto !important;
-    /*text-align: center;*/
-    margin:25vh auto !important;
-  }
-}
+    /*margin:15vh auto !important;*/
 
-@media only screen and (max-width: 550px) {
-  .card-img{
-    /*width:95% !important;*/
+    /*text-align: center;*/
   }
   .img-340{width: 66% !important;}
   .img-425{width: 50% !important;}
@@ -366,6 +361,13 @@ background-color:#333;
   .img-615{width: 75% !important;}
   .img-700{width: 100% !important;}
   .img-765{width: 95% !important;}
+
+}
+
+@media only screen and (max-width: 550px) {
+  .card-img{
+    /*width:95% !important;*/
+  }
 }
 
 .card-img-rmg{
@@ -374,7 +376,7 @@ background-color:#333;
 @media only screen and (max-width: 950px) {
   .card-img-rmg{
     width:90% !important;
-    margin:25vh auto !important;
+    margin:20vh auto !important;
   }
 }
 
