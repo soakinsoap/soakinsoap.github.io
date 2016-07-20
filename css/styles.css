@@ -404,6 +404,9 @@ background-color:#333;
   margin-top: 100px;
   margin-bottom: 150px;
 }
+.nav-row-padding{
+  margin-bottom: 65px;
+}
 
 @media only screen and (max-width: 950px) {
   .nav-row{
