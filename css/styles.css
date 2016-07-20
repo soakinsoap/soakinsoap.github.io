@@ -558,3 +558,6 @@ background-color:#333;
 .email{
   cursor:pointer;
 }
+.email-hide{
+  display:none;
+}

@@ -22,9 +22,20 @@ $(document).ready(function(){
   });
 
   $(".email").click(function(){
-    $(".email").text("morganchrisp@gmail.com");
-    $(".email").css('cursor','default');
+    $(".email").text("");
+    $(".email-hide").text("morganchrisp@gmail.com");
+    $(".email-hide").css('display','initial');
+    $(".email-hide").css('cursor','default');
+
   });
+
+  var emailText = $(".email").text();
+
+  if(emailText == "morganchrisp@gmail.com"){
+    $(".email").click(function(){
+      window.location = "mailto:morganchrisp@gmail.com";
+    });
+  }
 
 });
 
