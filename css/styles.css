@@ -155,6 +155,8 @@ body {
 
 
 .about-desc{
+  line-height: 1.2em;
+
 }
 @media only screen and (max-width: 550px) {
   .about-desc{
