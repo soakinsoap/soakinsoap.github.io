@@ -23,7 +23,7 @@ $(document).ready(function(){
 
   $(".email").click(function(){
     $(".email").text("");
-    $(".email-hide").text("morganchrisp@gmail.com");
+    $(".email-hide").text("m@morganhyland.com");
     $(".email-hide").css('display','initial');
     $(".email-hide").css('cursor','default');
 
@@ -31,9 +31,9 @@ $(document).ready(function(){
 
   var emailText = $(".email").text();
 
-  if(emailText == "morganchrisp@gmail.com"){
+  if(emailText == "m@morganhyland.com"){
     $(".email").click(function(){
-      window.location = "mailto:morganchrisp@gmail.com";
+      window.location = "mailto:m@morganhyland.com";
     });
   }
 
