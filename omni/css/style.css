@@ -1,11 +1,3 @@
 /*:root{
   font-size:1.05vw;
 }*/
-
-
-ul .__article__list__item-arrow{
-  list-style:none;
-}
-.__article__list__item-arrow:before{
-  content:"→";
-}
